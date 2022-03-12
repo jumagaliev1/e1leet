@@ -1,8 +1,8 @@
-#Damir Mirasov
+# Damir Mirasov
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e1leet&theme=radical)
 
-#Current Stack
+# Current Stack
 ```python
 from dataclasses import dataclass
 
